@@ -1,3 +1,11 @@
 {
-  "name": "samary-xia/samary"
+    "name": "vendow/samary",
+    "description": "magento plugin",
+    "authors": [
+        {
+            "name": "samary",
+            "email": "samary.xia@gmail.com"
+        }
+    ],
+    "require": {}
 }
